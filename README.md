@@ -1,6 +1,6 @@
 # Bus Ticket Reservation System
 
-A console-based bus ticket reservation system written in C. Built as a CSE115 course project at North South University (Fall 2022).
+This is our very FIRST project. This is a console-based bus ticket reservation system written in C. Built as a CSE115 course project at North South University (Fall 2022).
 
 ## Contents
 
