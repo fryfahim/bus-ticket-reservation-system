@@ -1,10 +1,11 @@
 # Bus Ticket Reservation System
 
-This is our very FIRST university project. It is a console-based bus ticket reservation system written in C. Built as a CSE115 course project at North South University (Fall 2022).
+A console-based bus ticket reservation system written in C.
 
 ## Contents
 
 - `Bus_Ticket_Reservation_system_fahim_poner_pallab.c` — main C source code
+- `bus.docx` — project documentation
 - `busreport(cse115).pdf` — project report
 
 ## Build & Run
@@ -20,7 +21,3 @@ On Windows:
 gcc Bus_Ticket_Reservation_system_fahim_poner_pallab.c -o bus.exe
 bus.exe
 ```
-
-## Authors
-
-Fahim, Poner, Pallab
