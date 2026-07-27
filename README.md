@@ -5,7 +5,6 @@ A console-based bus ticket reservation system written in C. Built as a CSE115 co
 ## Contents
 
 - `Bus_Ticket_Reservation_system_fahim_poner_pallab.c` — main C source code
-- `bus.docx` — project documentation
 - `busreport(cse115).pdf` — project report
 
 ## Build & Run
